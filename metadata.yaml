@@ -1,0 +1,36 @@
+_repo: La-Cryptographieou-l-art-d--crire-en-chiffres_42297
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42297-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Jacob, P. L.
+    aliases:
+    - Jacob, Bibliophile
+    - Jacob, Paul L.
+    - Lacroix, Paul
+    - Dufour, Pierre
+    birthdate: 1806
+    deathdate: 1884
+    gutenberg_agent_id: '4290'
+    url: http://www.gutenberg.org/2009/agents/4290
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Lacroix
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2013-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42297'
+  lccn: '96140672'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Ciphers'
+- !lcsh 'Signs and symbols'
+- !lcsh 'Cryptography'
+title: La Cryptographie, ou, l'art d'écrire en chiffres
+url: http://www.gutenberg.org/ebooks/42297
